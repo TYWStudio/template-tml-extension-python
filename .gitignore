@@ -1,0 +1,3 @@
+*.tmlext
+__pycache__/
+*.pyc
